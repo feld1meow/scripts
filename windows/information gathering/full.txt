@@ -1,0 +1,5 @@
+#create file $hostname.txt in current directory
+$hostname = hostname
+New-Item .\$hostname.txt
+
+Start-Process "systeminfo" -NoNewWindow -Wait >> .\$hostname.txt;
