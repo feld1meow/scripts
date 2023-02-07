@@ -1,2 +1,2 @@
 # AWESOME SCRIPTS
-useful scripts for working with operating systems
+A list of useful scripts and scenarios for Windows and Linux systems.
